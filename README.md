@@ -1,4 +1,6 @@
 # ocala-newsletter
+   
+   Mock newspaper website with responsive design.
 
 ## Local testing
 
@@ -15,6 +17,6 @@
     * Python for a local HTTP server
     * GitHub Pages for Deployment
 
-## See it live!
+## Inspiration
 
-    Navigate here https://ckrdi.github.io/ocala-newsletter to see it live!
+    This project is based on tutorial project made by Kevin Moore in his book at https://zerotocode.today/. You can visit him at https://github.com/kevmo.
